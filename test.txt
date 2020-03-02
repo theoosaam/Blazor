@@ -1,1 +1,1 @@
-Hello , welcome to Blazor Tutorial
+Hello , welcome to Blazor Tutorial , next I will test if update do it
